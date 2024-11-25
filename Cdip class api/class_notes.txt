@@ -1,0 +1,18 @@
+Class: 23/11/2024
+
+Introduction to RESTfull API using FastApi + Docker
+
+Little Recap what we learned:
+1. Getting fast API and uvicorn in our system for local test.
+2. Following the fast API startup guideline and utilizing uvicorn we ran our first backend app.
+3. Learn Get and Post methods/protocols. ( when to use what and what not )
+4. Learn the local host ( 127.0.0.1 vs 0.0.0.0 ) IP differences. 
+5. How to open the inside port to docker outside during service creation from the docker-compose
+6. Learn why 127.0.0.1 host will not accept requests when deployed inside docker. 
+
+
+
+The task for you. 
+
+According to the classwork prepare a generic API where the query parameter will be finn_code  and the query result from the API will be the Heading of the ad and the Price of the ad. 
+Red Marked portion in the attached image.
